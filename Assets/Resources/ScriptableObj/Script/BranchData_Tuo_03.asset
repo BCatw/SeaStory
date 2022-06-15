@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89c28291e574c84c8a42b1e91e5f7d1, type: 3}
+  m_Name: BranchData_Tuo_03
+  m_EditorClassIdentifier: 
+  branchName: Tuo_03
+  Question: "\u6D85\u4E00\u76F4\u90FD\u5F88\u60F3\u8981\u500B\u5A03\u5A03\u966A\u4ED6\u7761\u89BA\u7684\u6A23\u5B50\uFF0C\u4F46\u76F8\u7C3F\u80FD\u8A18\u9304\u6211\u5011\u7684\u751F\u6D3B\uFF0C\u8A72\u9078\u54EA\u500B\u624D\u597D\u2026\u2026 "
+  optionBranches:
+  - optionName: "\u73A9\u5076"
+    sprite: {fileID: 21300000, guid: 90410980171d296469c1e0608b6d8afc, type: 3}
+    optionDescript: "\u8A18\u5F97\u6D85\u4E00\u76F4\u60F3\u8981\u4E00\u500B\u5A03\u5A03\uFF0C\u9084\u662F\u9078\u9019\u500B\u597D\u4E86\u3002 "
+    nextData:
+      nextDataType: 0
+      nextValue: Tuo_03A
+  - optionName: "\u76F8\u7C3F"
+    sprite: {fileID: 21300000, guid: b697415a05058d045881af1784b75a47, type: 3}
+    optionDescript: "\u9078\u76F8\u672C\u597D\u4E86\uFF0C\u771F\u5E0C\u671B\u80FD\u8B93\u6D85\u4EAB\u53D7\u8A18\u9304\u751F\u6D3B\u7684\u6A02\u8DA3\u3002"
+    nextData:
+      nextDataType: 0
+      nextValue: Tuo_03A
+  - optionName: "\u4E0D\u8CB7"
+    sprite: {fileID: 21300000, guid: 4bb1c1e888d5c1946899b4a40d37c6e9, type: 3}
+    optionDescript: "\u7B49\u4ED6\u56DE\u5BB6\u518D\u554F\u4ED6\u60F3\u8981\u4EC0\u9EBC\u597D\u4E86\uFF0C\u6BD4\u8F03\u7701\u4E8B\u3002"
+    nextData:
+      nextDataType: 0
+      nextValue: Tuo_03B

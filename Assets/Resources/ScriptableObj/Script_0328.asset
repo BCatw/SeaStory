@@ -1,0 +1,283 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d0d3b9f4fba5994092237c3cb008e4f, type: 3}
+  m_Name: Script_0328
+  m_EditorClassIdentifier: 
+  sceneName: 
+  startBG: {fileID: 21300000, guid: f61bf32d5589d0f448e8e890408883f6, type: 3}
+  startBGM: {fileID: 8300000, guid: 76c7f6d29fd444f408ca657242837ab6, type: 3}
+  dialogueData: {fileID: 11400000, guid: dd1f6d581f375d44a890ef3d66e16f21, type: 2}
+  stateMachine: {fileID: 0}
+  nextScript: BAKA
+  nowProcess: 0
+  actProcesses:
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 1
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 21300000, guid: 3b4e27148bcb5c04898b8f995fb3659d, type: 3}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 1
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 21300000, guid: 4b0a4c95c4fe97a4a959840a4682cd26, type: 3}
+      BGMAudioClip: {fileID: 8300000, guid: 16f99bb7ac67b62479dd60f38e6b6b5b, type: 3}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  characterProcesses:
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 0
+      sprite: {fileID: 21300000, guid: 4da34ac1c0af90447b38e7c9ca5c690a, type: 3}
+      characterPosition: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 1
+      sprite: {fileID: 0}
+      characterPosition: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 0
+      sprite: {fileID: 21300000, guid: 4da34ac1c0af90447b38e7c9ca5c690a, type: 3}
+      characterPosition: 0
+  - isAct: 1
+    characterActs:
+    - characterName: "\u6D85"
+      spriteAct: 0
+      sprite: {fileID: 21300000, guid: 580546968f6ca934393cb0ef9094a595, type: 3}
+      characterPosition: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 1
+      sprite: {fileID: 0}
+      characterPosition: 0
+  - isAct: 1
+    characterActs:
+    - characterName: "\u6D85"
+      spriteAct: 1
+      sprite: {fileID: 0}
+      characterPosition: 0
+  - isAct: 1
+    characterActs:
+    - characterName: "\u6D85"
+      spriteAct: 0
+      sprite: {fileID: 21300000, guid: 580546968f6ca934393cb0ef9094a595, type: 3}
+      characterPosition: 0
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 0
+      sprite: {fileID: 21300000, guid: 4da34ac1c0af90447b38e7c9ca5c690a, type: 3}
+      characterPosition: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 2
+      sprite: {fileID: 21300000, guid: 6d1336d56d93798438f286a1fbf85e45, type: 3}
+      characterPosition: 0
+  - isAct: 1
+    characterActs:
+    - characterName: "\u6D85"
+      spriteAct: 2
+      sprite: {fileID: 21300000, guid: 5784526bf3bfe5b47bfc15fd5af99b80, type: 3}
+      characterPosition: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u6D85"
+      spriteAct: 1
+      sprite: {fileID: 0}
+      characterPosition: 0

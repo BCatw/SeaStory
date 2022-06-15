@@ -1,0 +1,33 @@
+{
+    "name": "UIControll",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "42e455c3-9e53-4b5d-a07c-2540873b3861",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "67954ee6-fd96-4709-bbe2-dd554a4d4edd",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e58c140f-d304-4a1c-b802-bf8fa3e79c76",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

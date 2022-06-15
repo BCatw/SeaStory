@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e3f940ce0e9a944c9157233b0a0c05d, type: 3}
+  m_Name: DialoguePool_0328
+  m_EditorClassIdentifier: 
+  dialogueSingleDatas:
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u5269\u4E0B\u628A\u5976\u6CB9\u64E0\u4E0A\u53BB\u5C31\u884C\u4E86\u2026\u2026\u5F97\u8D95\u5FEB\u624D\u884C\u514D\u5F97\u88AB\u6D85\u767C\u73FE\u3002"
+    OnAct:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 11400000, guid: 509a6c70beb7a5c419ed98bfd9dfddb3, type: 2}
+          m_MethodName: OnChangeBGM
+          m_Mode: 2
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: "\u62D3"
+    isRefresh: 0
+    isAutoNex: 0
+    dialogue: "\u597D\u2026\u2026\u9019\u6A23\u5C31\u7B97\u5B8C\u6210\u2500\u2500"
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: null
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u53C8\u8CF4\u5E8A\u4E86\u554A\u2026\u2026"
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u2026\u8A72\u8D77\u5E8A\u4E86\u2026\u2026"
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: "(\u72D0\u72F8)"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u2026\u2026"
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u6D85\uFF0C\u8A72\u8D77\u5E8A\u56C9\u2026\u2026"
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: "\u6D85"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u55EF\u2026\u2026"
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u7B2C\u4E00\u5929\u4E0A\u5B78\u5225\u9072\u5230\u6BD4\u8F03\u597D\u554A\uFF0C\u8D77\u5E8A\u5427\uFF1F"
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: "\u6D85"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u4EBA\u5BB6\u9084\u60F3\u7761\u2026\u2026"
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u518D\u4E0D\u8D77\u5E8A\u2500\u2500\u6211\u5C31\u8981\u6414\u7662\u56C9\uFF01"
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: "\u6D85"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u4E0D\u8981\u5566\uFF01\u6211\u99AC\u4E0A\u8D77\u4F86\uFF0C\u4E0D\u8981\u3001\u4E0D\u8981\u6414\u7662\u5566\uFF01"
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: OS
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u62D3\u6414\u4E86\u5E7E\u4E0B\u6D85\uFF0C\u8B93\u6D85\u9023\u5FD9\u5F9E\u88AB\u5B50\u88E1\u947D\u51FA\u4F86\uFF0C\u72D0\u72F8\u53EF\u611B\u7684\u6A21\u6A23\u8B93\u62D3\u5634\u89D2\u96B1\u96B1\u839E\u723E\u3002"
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u6211\u505A\u4E86\u4F60\u559C\u6B61\u7684\u714E\u86CB\u6372\u5594\uFF0C\u6211\u5728\u9910\u684C\u90A3\u908A\u7B49\u4F60\u3002"
+    OnAct:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 11400000, guid: 509a6c70beb7a5c419ed98bfd9dfddb3, type: 2}
+          m_MethodName: OnChangeBGM
+          m_Mode: 2
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 11400000, guid: 509a6c70beb7a5c419ed98bfd9dfddb3, type: 2}
+          m_MethodName: OnChangeBGM
+          m_Mode: 2
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  excelFileName: Tuo_01

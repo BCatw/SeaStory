@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e3f940ce0e9a944c9157233b0a0c05d, type: 3}
+  m_Name: DialoguePool_BAKA
+  m_EditorClassIdentifier: 
+  sceneName: 
+  BG: {fileID: 21300000, guid: 3b4e27148bcb5c04898b8f995fb3659d, type: 3}
+  dataNumber: 0
+  dialogueDatas:
+  - name: "\u718A"
+    dialogue: 123123<color=red>456456</color>789789
+    isNextPage: 1
+    characterImage: {fileID: 0}
+  - name: "\u72D0"
+    dialogue: "\u8AAA\u4EC0\u9EBC\uFF1F"
+    isNextPage: 1
+    characterImage: {fileID: 0}
+  - name: "\u718A"
+    dialogue: "\u5C31\u662F\u554A\u3002"
+    isNextPage: 1
+    characterImage: {fileID: 0}
+  - name: "\u718A"
+    dialogue: "\n\u6211\u5011\u8B1B\u8A71\u597D\u50CF\u6C92\u8FA6\u6CD5\u63DB\u884C\u8036\u3002"
+    isNextPage: 0
+    characterImage: {fileID: 0}
+  - name: 
+    dialogue: "\u6253\u8C93\u8C93\u7126\u6025\u7684\u4F30\u72D7\uFF0C"
+    isNextPage: 1
+    characterImage: {fileID: 0}
+  - name: 
+    dialogue: "\n\u5927\u5BB6\u90FD\u8AAA\\n\u6216\u662F\\r\\n\u53EF\u4EE5\u63DB\u884C\uFF0C"
+    isNextPage: 0
+    characterImage: {fileID: 0}
+  - name: 
+    dialogue: "\n\u4F46\u600E\u9EBC\u8A66\u90FD\u5931\u6557\u3002"
+    isNextPage: 0
+    characterImage: {fileID: 0}
+  - name: "\u72D0"
+    dialogue: "\u600E\u9EBC\u8A66\u2026"
+    isNextPage: 1
+    characterImage: {fileID: 0}
+  - name: "\u72D0"
+    dialogue: "\u90FD\u5931\u6557\u4E86\u2026"
+    isNextPage: 0
+    characterImage: {fileID: 0}
+  - name: "\u718A"
+    dialogue: "\u311D\u9084\u6709\u9019\u500B"
+    isNextPage: 1
+    characterImage: {fileID: 0}
+  - name: "\u72D0"
+    dialogue: 
+    isNextPage: 1
+    characterImage: {fileID: 21300000, guid: fd06a8acbfc347f42b0638e5f9126c24, type: 3}
+  - name: "\u718A"
+    dialogue: "<color=red>\u54ED\u5C41\u554A\uFF01</color>"
+    isNextPage: 1
+    characterImage: {fileID: 0}
+  - name: 
+    dialogue: "\u72D0\u72F8\u9707\u9A5A\u4E86\u4E00\u4E0B\u3002"
+    isNextPage: 1
+    characterImage: {fileID: 0}
+  - name: "\u718A"
+    dialogue: "\u4F60\u770B\uFF01"
+    isNextPage: 1
+    characterImage: {fileID: 0}
+  - name: "\u718A"
+    dialogue: "\n\u6703\u5148\u51FA\u73FE\u5947\u602A\u7684\u6771\u897F\u5B57\u624D\u63DB\u8272\u8036\u54C8\u54C8\uFF01"
+    isNextPage: 0
+    characterImage: {fileID: 0}
+  - name: "\u72D0"
+    dialogue: 
+    isNextPage: 1
+    characterImage: {fileID: 21300000, guid: 8fd3a74c237faa6479d46470080a95c2, type: 3}
+  - name: "\u718A"
+    dialogue: "\u592A\u597D\u4E86\u4F60\u7B11\u4E86\u54C8\u54C8\uFF01"
+    isNextPage: 1
+    characterImage: {fileID: 0}
+  - name: "\u72D0"
+    dialogue: "\u311D\u718A\u2026"
+    isNextPage: 1
+    characterImage: {fileID: 0}
+  - name: "\u718A"
+    dialogue: "\u600E\u9EBC\u4E86\uFF1F"
+    isNextPage: 1
+    characterImage: {fileID: 0}
+  - name: "\u72D0"
+    dialogue: "\u9019\u50A2\u4F19\u884C\u55CE\uFF1F"
+    isNextPage: 1
+    characterImage: {fileID: 0}
+  - name: "\u72D0"
+    dialogue: "\n...\u597D\u50CF\u6709\u9EDE\u6158\u5462\u3002"
+    isNextPage: 0
+    characterImage: {fileID: 0}
+  - name: "\u718A"
+    dialogue: "\u5C31\u8B93\u6211\u5011\u7E7C\u7E8C\u770B\u4E0B\u53BB\u5427\u3002"
+    isNextPage: 1
+    characterImage: {fileID: 0}
+  - name: 
+    dialogue: 
+    isNextPage: 0
+    characterImage: {fileID: 0}

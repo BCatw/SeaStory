@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25810687e6a5cc24d9be7e8a4610b05e, type: 3}
+  m_Name: CGData_Tuo_511
+  m_EditorClassIdentifier: 
+  cGTag: Tuo
+  number: 511
+  CG: {fileID: 21300000, guid: e306afbacd198504989a2e8f99bbdf6b, type: 3}
+  cover: {fileID: 21300000, guid: 51052fbe6c43bce4ca3af88430057ddc, type: 3}

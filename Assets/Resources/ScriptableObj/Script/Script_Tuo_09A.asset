@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d0d3b9f4fba5994092237c3cb008e4f, type: 3}
+  m_Name: Script_Tuo_09A
+  m_EditorClassIdentifier: 
+  excelFileName: Tuo_09A
+  sceneName: "\u63ED\u958B\u50B7\u75A4"
+  characterName:
+  - "\u62D3"
+  - "\u6D85"
+  nextData:
+    nextDataType: 0
+    nextValue: Tuo_10
+  nowProcess: 0
+  cover: {fileID: 0}
+  startBG: {fileID: 21300000, guid: 18e7e4103c54bc4459a5f526f19b0c6f, type: 3}
+  startBGM: {fileID: 8300000, guid: 12be869cd1157fd4b9f76d08f8fad198, type: 3}
+  startCharacters: []
+  dialogueSingleDatas:
+  - ID: 0
+    characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u4F60\u9084\u8A18\u5F97\u6211\u65E9\u4E0A\u8AAA\u7684\u55CE\u2026\u4ECA\u5929\u7B49\u4F60\u56DE\u4F86\uFF0C\u6703\u6709\u9A5A\u559C\u7B49\u4F60\u55CE\uFF1F"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  - ID: 1
+    characterName: OS
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  - ID: 2
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  - ID: 3
+    characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u8DDF\u6211\u4F86\u5427\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  - ID: 4
+    characterName: OS
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u62D3\u8D70\u5230\u8863\u6AC3\u524D\u5E6B\u6D85\u627E\u4E86\u5957\u8863\u670D\uFF0C\u91CD\u65B0\u7A7F\u4E0A\u5F8C\uFF0C\u518D\u6B21\u62B1\u8D77\u4E86\u6D85\uFF0C\u800C\u6D85\u7684\u5C0F\u624B\u5247\u7DCA\u7DCA\u6293\u8457\u62D3\u7684\u4E0A\u8863\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  - ID: 5
+    characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u672C\u4F86\u6253\u7B97\u5403\u5B8C\u98EF\u518D\u9001\u4F60\u7684\uFF0C\u4E0D\u904E\u2500\u2500"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  - ID: 6
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u8B1D\u8B1D\u4F60\u9858\u610F\u642C\u9032\u9019\u500B\u5BB6\uFF0C\u6D85\uFF0C\u795D\u4F60\u751F\u65E5\u5FEB\u6A02\uFF0C\u4E5F\u6176\u795D\u4F60\u642C\u9032\u4F86\u4E00\u5468\u5E74\u4E86\u5462\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  - ID: 7
+    characterName: OS
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u62D3\u8B93\u6D85\u5750\u5230\u6C99\u767C\u4E0A\u5F8C\uFF0C\u4E00\u908A\u8AAA\u8457\u4E00\u908A\u5C07\u65C1\u908A\u888B\u5B50\u88E1\u7684\u79AE\u7269\u62FF\u51FA\u4F86\uFF0C\u4EA4\u7D66\u6D85\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  - ID: 8
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u6D85\u770B\u898B\u62D3\u9EDE\u982D\u5F8C\uFF0C\u6162\u6162\u5730\u62C6\u958B\u79AE\u7269\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 8300000, guid: 15d119c7627782f4c9e6d49b5298a8af, type: 3}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  - ID: 9
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u7576\u6D85\u770B\u898B\u90A3\u672C\u76F8\u7C3F\uFF0C\u4E0D\u7531\u5730\u8F15\u8072\u767C\u51FA\u9A5A\u5606\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  - ID: 10
+    characterName: "\u6D85"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u54C7\u2026\u2026"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  - ID: 11
+    characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u9019\u672C\u76F8\u7C3F\uFF0C\u96D6\u7136\u73FE\u5728\u88E1\u9762\u9084\u6C92\u6709\u7167\u7247\u2026\u2026"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  - ID: 12
+    characterName: OS
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u62D3\u8E72\u5230\u6D85\u7684\u8EAB\u65C1\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  - ID: 13
+    characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u4F46\u6211\u5011\u4EE5\u5F8C\u6703\u4E00\u8D77\u505A\u5F88\u591A\u4E8B\u60C5\uFF0C\u6211\u5011\u4E00\u8D77\u628A\u5F88\u591A\u56DE\u61B6\u653E\u9032\u9019\u672C\u76F8\u7C3F\u88E1\uFF0C\u597D\u55CE\uFF1F"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  - ID: 14
+    characterName: "\u6D85"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u597D\u2026\u2026"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  - ID: 15
+    characterName: OS
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u62D3\u8F15\u8F15\u6478\u4E86\u6478\u6D85\u7684\u982D\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+  characterProcesses:
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d0d3b9f4fba5994092237c3cb008e4f, type: 3}
+  m_Name: Script_Tuo_10
+  m_EditorClassIdentifier: 
+  excelFileName: Tuo_10
+  sceneName: 
+  characterName: []
+  nextData:
+    nextDataType: 0
+    nextValue: 
+  nowProcess: 0
+  imagine: {fileID: 0}
+  startBG: {fileID: 0}
+  startBGM: {fileID: 0}
+  startCharacters: []
+  dialogueSingleDatas:
+  - ID: 0
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: null
+    OnAct:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  characterProcesses: []

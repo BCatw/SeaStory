@@ -1,0 +1,795 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d0d3b9f4fba5994092237c3cb008e4f, type: 3}
+  m_Name: Script_Tuo_03
+  m_EditorClassIdentifier: 
+  excelFileName: Tuo_03
+  sceneName: "\u8CB7\u79AE\u7269\u524D"
+  characterName:
+  - "\u62D3"
+  - "\u80AF\u8332"
+  - "\u8DEF\u4EBA"
+  cover: {fileID: 21300000, guid: 03567f6feb659314f9776625b665d0b9, type: 3}
+  isNextRefPref: 0
+  nextRefPrefName: 
+  nextData:
+  - nextDataType: 1
+    nextValue: Tuo_03
+  nowProcess: 0
+  startBG: {fileID: 21300000, guid: cda74c156e7ffbe428e4020b8889df14, type: 3}
+  startBGM: {fileID: 8300000, guid: 7facfe93d7ce1a04e9c2a58f829d8f03, type: 3}
+  startCharacters:
+  - characterName: "\u80AF\u8332"
+    characterSprite: {fileID: 21300000, guid: 94caae614b0ecd24cb12b70329fa8f90, type: 3}
+    startPositX: -0.6
+  - characterName: "\u62D3"
+    characterSprite: {fileID: 0}
+    startPositX: 1
+  dialogueSingleDatas:
+  - ID: 0
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 1
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 2
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 3
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 4
+    characterName: "\u80AF\u8332\u864E"
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: "\u54C8\u56C9\uFF0C\u597D\u4E45\u4E0D\u898B\u554A\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 5
+    characterName: OS
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u807D\u5230\u8001\u95C6\u719F\u6089\u7684\u62DB\u547C\uFF0C\u6211\u624D\u56DE\u904E\u795E\uFF0C\u6CE8\u610F\u5230\u81EA\u5DF1\u5DF2\u7D93\u8E0F\u9032\u5E97\u88E1\u4E86\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 6
+    characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u4F60\u597D\u554A\uFF0C\u8001\u95C6\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 7
+    characterName: "\u80AF\u8332"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u597D\u4E45\u6C92\u770B\u5230\u4F60\u4E86\uFF0C\u6700\u8FD1\u548C\u6D85\u904E\u5F97\u600E\u9EBC\u6A23\u554A\uFF1F"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 8
+    characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u9084\u53EF\u4EE5\u5427\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 9
+    characterName: "\u80AF\u8332"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u597D\u5594\u3002\u90A3\u2026\u4F60\u4ECA\u5929\uFF0C\u60F3\u8CB7\u4E9B\u4EC0\u9EBC\u5462\uFF1F"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 10
+    characterName: OS
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u6211\u62FF\u4E86\u5F35\u6E05\u55AE\u7D66\u8001\u95C6\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 11
+    characterName: "\u80AF\u8332"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u9084\u662F\u8001\u6A23\u5B50\u662F\u5427\uFF0C\u7B49\u6211\u4E00\u4E0B\u5594\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 12
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 13
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 14
+    characterName: OS
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u8D81\u8457\u8001\u95C6\u53BB\u5009\u5EAB\u6642\uFF0C\u6211\u6253\u7B97\u5728\u5E97\u88E1\u56DB\u8655\u8F49\u8F49\uFF0C\u770B\u770B\u80FD\u4E0D\u80FD\u627E\u5230\u9069\u5408\u6D85\u7684\u79AE\u7269\u3002\u5C31\u5728\u6211\u8981\u8D70\u9032\u5546\u54C1\u5340\u7684\u6642\u5019\u2500\u2500"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 15
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    BG: {fileID: 0}
+    BGM: {fileID: 8300000, guid: 12be869cd1157fd4b9f76d08f8fad198, type: 3}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 16
+    characterName: "\u5967\u5BA2\u5976\u916A"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u8B93\u958B\uFF0C\u4E0D\u8981\u64CB\u5728\u9580\u53E3\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 17
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 18
+    characterName: OS
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u4E00\u500B\u5BA2\u4EBA\u8C6A\u4E0D\u5BA2\u6C23\u5730\u7A7F\u904E\u8D70\u9053\uFF0C\u523B\u610F\u649E\u958B\u6211\u3002\u5728\u4ED6\u7D93\u904E\u7684\u6642\u5019\uFF0C\u6211\u9084\u80FD\u770B\u5230\u4ED6\u7765\u7768\u6211\u7684\u773C\u795E\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 19
+    characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u2026\u2026"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 20
+    characterName: OS
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u7562\u7ADF\u4E0D\u662F\u7B2C\u4E00\u6B21\u9047\u5230\u9019\u7A2E\u4E8B\u4E86\uFF0C\u6211\u4E5F\u5C31\u7576\u4F5C\u4EC0\u9EBC\u4E8B\u4E5F\u6C92\u767C\u751F\uFF0C\u7E7C\u7E8C\u901B\u6211\u81EA\u5DF1\u7684\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 21
+    characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u662F\u4E0D\u662F\u8A72\u5E6B\u6D85\u8CB7\u500B\u5A03\u5A03\u5462\u2026\u2026"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 22
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 23
+    characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u55EF\uFF1F\u9019\u662F\u2026\u2026"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 24
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 1
+    iteim: {fileID: 21300000, guid: e79a6e879c56fc34dbd6471cb0bd902c, type: 3}
+    itemBehavior: 1
+  - ID: 25
+    characterName: OS
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u6211\u770B\u898B\u67B6\u5B50\u4E0A\u7684\u9C77\u9B5A\u73A9\u5076\uFF0C\u60F3\u8D77\u4E86\u63A5\u6D85\u56DE\u5BB6\u7684\u90A3\u5929\u3002\u61C9\u8A72\u662F\u88AB\u5225\u7684\u5B69\u5B50\u85CF\u8D77\u4F86\u4E86\u5427\uFF1F"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 26
+    characterName: OS
+    isRefresh: 0
+    isAutoNex: 0
+    dialogue: "<br>\u90A3\u5929\u6D85\u4E00\u908A\u555C\u6CE3\u4E00\u908A\u727D\u8457\u6211\u7684\u624B\uFF0C\u8AAA\u4ED6\u7684\u91CE\u72FC\u5148\u751F\u4E0D\u898B\u4E86\uFF0C\u4ED6\u6015\u665A\u4E0A\u6703\u505A\u60E1\u5922\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 27
+    characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u96D6\u7136\u9019\u9EBC\u8AAA\uFF0C\u4F46\u6BCF\u6B21\u554F\u4ED6\u9858\u4E0D\u9858\u610F\u8B93\u6211\u966A\u4ED6\u7761\u89BA\u7684\u6642\u5019\uFF0C\u4ED6\u537B\u9084\u662F\u6416\u982D\u62D2\u7D55\u5462\u2026\u2026"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 2
+    iteim: {fileID: 0}
+    itemBehavior: 2
+  - ID: 28
+    characterName: OS
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u5C31\u5728\u6211\u7336\u8C6B\u662F\u5426\u8981\u8CB7\u9019\u500B\u73A9\u5076\u6642\uFF0C\u6211\u7A81\u7136\u77A5\u898B\u89D2\u843D\u88E1\u7684\u4E00\u672C\u76F8\u7C3F\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 29
+    characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u9019\u662F\u2026\u2026"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 30
+    characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 1
+    iteim: {fileID: 21300000, guid: cb48809fced93fb43842d9205937f9f1, type: 3}
+    itemBehavior: 1
+  - ID: 31
+    characterName: OS
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u6211\u8E72\u4E0B\u8EAB\uFF0C\u770B\u4E86\u770B\u90A3\u672C\u76F8\u7C3F\u3002\u9152\u7D05\u8272\u7684\u5C01\u9762\u914D\u4E0A\u9583\u720D\u8457\u5149\u8292\u7684\u71D9\u91D1\u5B57\u9AD4\uFF0C\u975E\u5E38\u597D\u770B\uFF0C\u63A5\u8457\u6211\u6CE8\u610F\u5230\u4E0A\u9762\u7684\u53E5\u5B50\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 32
+    characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u53CB\u8ABC\u7684\u2026\u2026\u737B\u79AE\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 2
+  - ID: 33
+    characterName: "\u80AF\u8332"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u54E6\u54E6\uFF01\u4F60\u627E\u5230\u90A3\u500B\u76F8\u7C3F\u4E86\u3002\u8981\u4E0D\u8981\u8003\u616E\u4E00\u4E0B\u554A\uFF1F\u4F60\u53EF\u4EE5\u628A\u4F60\u5BB6\u5B69\u5B50\u7684\u7167\u7247\u653E\u9032\u53BB\u54E6\u3002\u5C0D\u4E86\uFF0C\u9019\u6B21\u6E05\u55AE\u4E0A\u7684\u6771\u897F\uFF0C\u50F9\u683C\u5728\u9019\u3002"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 2
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  - ID: 34
+    characterName: OS
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u6211\u770B\u8457\u50F9\u76EE\u8868\u4E0A\u7684\u6578\u5B57\uFF0C\u5FC3\u4E2D\u5FCD\u4E0D\u4F4F\u4E00\u7DCA\u3002\u52A0\u4E0A\u5176\u4ED6\u7684\u958B\u652F\uFF0C\u5982\u679C\u518D\u5E6B\u6D85\u8CB7\u79AE\u7269\u6050\u6015\u652F\u51FA\u4E0A\u6703\u6709\u4E9B\u56F0\u96E3\u554A\u2026\u2026"
+    BG: {fileID: 0}
+    BGM: {fileID: 0}
+    SFX: {fileID: 0}
+    VFX: {fileID: 0}
+    cgData: {fileID: 0}
+    cgBehavior: 0
+    filter: {fileID: 0}
+    filterBehavior: 0
+    iteim: {fileID: 0}
+    itemBehavior: 0
+  characterProcesses:
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 0
+      sprite: {fileID: 21300000, guid: 00be538e5d67f7d49a4a38c651f4b1ac, type: 3}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: 0.6
+      isFacingRight: 0
+      layer: 0
+      animationType: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u80AF\u8332"
+      spriteAct: 2
+      sprite: {fileID: 21300000, guid: 6b7a358d969839441a67f174f993a342, type: 3}
+      isMoving: 0
+      immediatelyMoving: 0
+      xPosition: 0
+      isFacingRight: 1
+      layer: 0
+      animationType: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u80AF\u8332"
+      spriteAct: 2
+      sprite: {fileID: 21300000, guid: 94caae614b0ecd24cb12b70329fa8f90, type: 3}
+      isMoving: 0
+      immediatelyMoving: 0
+      xPosition: 0
+      isFacingRight: 0
+      layer: 0
+      animationType: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u80AF\u8332"
+      spriteAct: 1
+      sprite: {fileID: 0}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: -1.2
+      isFacingRight: 0
+      layer: 0
+      animationType: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 3
+      sprite: {fileID: 0}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: 0
+      isFacingRight: 0
+      layer: 1
+      animationType: 0
+    - characterName: "\u8DEF\u4EBA"
+      spriteAct: 3
+      sprite: {fileID: 0}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: 0.5
+      isFacingRight: 0
+      layer: 0
+      animationType: 0
+  - isAct: 1
+    characterActs:
+    - characterName: "\u8DEF\u4EBA"
+      spriteAct: 0
+      sprite: {fileID: 21300000, guid: 37388bdd968d964468c481979705335c, type: 3}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: 0
+      isFacingRight: 0
+      layer: 0
+      animationType: 0
+    - characterName: "\u62D3"
+      spriteAct: 3
+      sprite: {fileID: 0}
+      isMoving: 0
+      immediatelyMoving: 0
+      xPosition: 0
+      isFacingRight: 0
+      layer: 0
+      animationType: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u8DEF\u4EBA"
+      spriteAct: 1
+      sprite: {fileID: 0}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: -0.5
+      isFacingRight: 0
+      layer: 0
+      animationType: 0
+    - characterName: "\u62D3"
+      spriteAct: 2
+      sprite: {fileID: 21300000, guid: 5423d5def1d15914c94ffdae246fd8b9, type: 3}
+      isMoving: 0
+      immediatelyMoving: 0
+      xPosition: 0
+      isFacingRight: 0
+      layer: 0
+      animationType: 1
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 2
+      sprite: {fileID: 21300000, guid: ba4ff319106a98e42802886e8a0649a9, type: 3}
+      isMoving: 0
+      immediatelyMoving: 0
+      xPosition: 0
+      isFacingRight: 0
+      layer: 0
+      animationType: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 2
+      sprite: {fileID: 21300000, guid: 5423d5def1d15914c94ffdae246fd8b9, type: 3}
+      isMoving: 0
+      immediatelyMoving: 0
+      xPosition: 0
+      isFacingRight: 0
+      layer: 0
+      animationType: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 2
+      sprite: {fileID: 21300000, guid: ba4ff319106a98e42802886e8a0649a9, type: 3}
+      isMoving: 0
+      immediatelyMoving: 0
+      xPosition: 0
+      isFacingRight: 0
+      layer: 0
+      animationType: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 2
+      sprite: {fileID: 21300000, guid: c55733982a034cb4a886e044649414ea, type: 3}
+      isMoving: 0
+      immediatelyMoving: 0
+      xPosition: 0
+      isFacingRight: 0
+      layer: 0
+      animationType: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 2
+      sprite: {fileID: 21300000, guid: 00be538e5d67f7d49a4a38c651f4b1ac, type: 3}
+      isMoving: 0
+      immediatelyMoving: 0
+      xPosition: 0
+      isFacingRight: 0
+      layer: 0
+      animationType: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u80AF\u8332"
+      spriteAct: 0
+      sprite: {fileID: 21300000, guid: 94caae614b0ecd24cb12b70329fa8f90, type: 3}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: -0.5
+      isFacingRight: 0
+      layer: 0
+      animationType: 0
+    - characterName: "\u62D3"
+      spriteAct: 3
+      sprite: {fileID: 0}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: 0.5
+      isFacingRight: 0
+      layer: 0
+      animationType: 0
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 2
+      sprite: {fileID: 21300000, guid: 5423d5def1d15914c94ffdae246fd8b9, type: 3}
+      isMoving: 0
+      immediatelyMoving: 0
+      xPosition: 0
+      isFacingRight: 0
+      layer: 0
+      animationType: 0

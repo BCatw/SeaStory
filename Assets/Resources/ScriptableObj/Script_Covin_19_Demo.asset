@@ -1,0 +1,483 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d0d3b9f4fba5994092237c3cb008e4f, type: 3}
+  m_Name: Script_Covin_19_Demo
+  m_EditorClassIdentifier: 
+  sceneName: 
+  startBG: {fileID: 21300000, guid: b6bc1c6bce97d894085213917339d4af, type: 3}
+  startBGM: {fileID: 8300000, guid: fe12f51b1ee46864b998984e16524b7f, type: 3}
+  dialogueData: {fileID: 11400000, guid: 7feab958e489ffd4bb8a77899fbc303a, type: 2}
+  characterName:
+  - "\u62D3"
+  - "\u6D85"
+  stateMachine: {fileID: 0}
+  nextDataType: 2
+  nextValue: 
+  nowProcess: 0
+  actProcesses:
+  - isAct: 1
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 8300000, guid: 6c331c101c4749048a2b972961f1cdc9, type: 3}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 1
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 8300000, guid: 6c331c101c4749048a2b972961f1cdc9, type: 3}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 1
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 8300000, guid: 6c331c101c4749048a2b972961f1cdc9, type: 3}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 8300000, guid: 12be869cd1157fd4b9f76d08f8fad198, type: 3}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 1
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 8300000, guid: 12be869cd1157fd4b9f76d08f8fad198, type: 3}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 1
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 8300000, guid: 215797bc29b572747b3fd54ee6dcd26a, type: 3}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  - isAct: 0
+    stageActs:
+      actCategory: 0
+      BGSprite: {fileID: 0}
+      BGMAudioClip: {fileID: 0}
+      SFXAudioClip: {fileID: 0}
+      FXObj: {fileID: 0}
+  characterProcesses:
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 0
+      sprite: {fileID: 21300000, guid: c55733982a034cb4a886e044649414ea, type: 3}
+      isMoving: 1
+      immediatelyMoving: 1
+      xPosition: -0.6
+  - isAct: 1
+    characterActs:
+    - characterName: "\u6D85"
+      spriteAct: 0
+      sprite: {fileID: 21300000, guid: 2a12158c1a6d28e4c921a311df9802d6, type: 3}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: 0.6
+  - isAct: 0
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 0
+      sprite: {fileID: 21300000, guid: c55733982a034cb4a886e044649414ea, type: 3}
+      isMoving: 0
+      immediatelyMoving: 0
+      xPosition: 0
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 3
+      sprite: {fileID: 0}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: -0.8
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u6D85"
+      spriteAct: 3
+      sprite: {fileID: 0}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: 0.8
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 3
+      sprite: {fileID: 0}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: -0.6
+  - isAct: 1
+    characterActs:
+    - characterName: "\u6D85"
+      spriteAct: 3
+      sprite: {fileID: 0}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: 0.3
+  - isAct: 1
+    characterActs:
+    - characterName: "\u6D85"
+      spriteAct: 3
+      sprite: {fileID: 0}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: 0
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 1
+      sprite: {fileID: 0}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: -0.8
+  - isAct: 1
+    characterActs:
+    - characterName: "\u6D85"
+      spriteAct: 3
+      sprite: {fileID: 0}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: 0.8
+  - isAct: 0
+    characterActs: []
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 0
+      sprite: {fileID: 21300000, guid: c55733982a034cb4a886e044649414ea, type: 3}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: -0.6
+  - isAct: 1
+    characterActs:
+    - characterName: "\u62D3"
+      spriteAct: 3
+      sprite: {fileID: 0}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: -0.4
+    - characterName: "\u6D85"
+      spriteAct: 3
+      sprite: {fileID: 0}
+      isMoving: 1
+      immediatelyMoving: 0
+      xPosition: 0.4
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []
+  - isAct: 0
+    characterActs: []

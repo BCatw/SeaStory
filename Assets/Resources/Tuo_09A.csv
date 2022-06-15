@@ -1,0 +1,17 @@
+﻿ID,Character Name,Refresh,Auto Next,Dialogue,BG,BGM,SFX,CGData,CGBehavior,Filter,FilterBehavior
+0,拓,TRUE,FALSE,你還記得我早上說的嗎…今天等你回來，會有驚喜等你嗎？,null,null,null,null,null,null,null
+1,OS,TRUE,TRUE,null,null,null,null,null,null,null,null
+2,null,TRUE,TRUE,null,null,null,null,null,null,null,null
+3,拓,TRUE,FALSE,跟我來吧。,null,null,null,null,null,null,null
+4,OS,TRUE,FALSE,拓走到衣櫃前幫涅找了套衣服，重新穿上後，再次抱起了涅，而涅的小手則緊緊抓著拓的上衣。,null,null,null,null,null,null,null
+5,拓,TRUE,FALSE,本來打算吃完飯再送你的，不過──,null,BGM_Daily_2,null,null,null,null,null
+6,null,TRUE,FALSE,謝謝你願意搬進這個家，涅，祝你生日快樂，也慶祝你搬進來一周年了呢。,null,null,null,null,null,null,null
+7,OS,TRUE,FALSE,拓讓涅坐到沙發上後，一邊說著一邊將旁邊袋子裡的禮物拿出來，交給涅。,null,null,null,null,null,null,null
+8,null,TRUE,FALSE,涅看見拓點頭後，慢慢地拆開禮物。,null,null,SFX_Stage_Wrapper,null,null,null,null
+9,null,TRUE,FALSE,當涅看見那本相簿，不由地輕聲發出驚嘆。,null,null,null,null,null,null,null
+10,涅,TRUE,FALSE,哇……,null,null,null,null,null,null,null
+11,拓,TRUE,FALSE,這本相簿，雖然現在裡面還沒有照片……,null,null,null,null,null,null,null
+12,OS,TRUE,FALSE,拓蹲到涅的身旁。,null,null,null,null,null,null,null
+13,拓,TRUE,FALSE,但我們以後會一起做很多事情，我們一起把很多回憶放進這本相簿裡，好嗎？,null,null,null,null,null,null,null
+14,涅,TRUE,FALSE,好……,null,null,null,null,null,null,null
+15,OS,TRUE,FALSE,拓輕輕摸了摸涅的頭。,null,null,null,null,null,null,null

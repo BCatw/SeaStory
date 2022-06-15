@@ -1,0 +1,190 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e3f940ce0e9a944c9157233b0a0c05d, type: 3}
+  m_Name: DialoguePool_0524
+  m_EditorClassIdentifier: 
+  sceneName: 
+  BG: {fileID: 0}
+  dataNumber: 0
+  dialogueDatas: []
+  dialogueSingleDatas:
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    characterImage: {fileID: 0}
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u53C8\u8CF4\u5E8A\u4E86\u554A\u2026"
+    characterImage: {fileID: 0}
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    characterImage: {fileID: 0}
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    characterImage: {fileID: 0}
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u2026\u8A72\u8D77\u5E8A\u4E86\u2026\u2026"
+    characterImage: {fileID: 0}
+  - characterName: ???
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u2026\u2026"
+    characterImage: {fileID: 0}
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u6D85\uFF0C\u8A72\u8D77\u5E8A\u56C9\u2026"
+    characterImage: {fileID: 0}
+  - characterName: "\u6D85"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u4EBA\u5BB6\u9084\u60F3\u7761\u2026"
+    characterImage: {fileID: 0}
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u7B2C\u4E00\u5929\u4E0A\u5B78\u5225\u9072\u5230\u6BD4\u8F03\u597D\u554A\uFF0C\u8D77\u5E8A\u5427\uFF1F"
+    characterImage: {fileID: 0}
+  - characterName: "\u6D85"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u55EF\uFF0D\uFF0D"
+    characterImage: {fileID: 0}
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u62D3\u770B\u8457\u5E8A\u4E0A\u7DE9\u7DE9\u722C\u8D77\u4F86\u7684\u72D0\u72F8\uFF0C\u5634\u89D2\u96B1\u96B1\u839E\u723E\u3002"
+    characterImage: {fileID: 0}
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u6211\u505A\u4E86\u4F60\u559C\u6B61\u7684\u714E\u86CB\u6372\u5594\uFF0C\u6211\u5728\u9910\u684C\u90A3\u908A\u7B49\u4F60\u3002"
+    characterImage: {fileID: 0}
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    characterImage: {fileID: 0}
+  - characterName: "\u6D85"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u2026"
+    characterImage: {fileID: 0}
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    characterImage: {fileID: 0}
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    characterImage: {fileID: 0}
+  - characterName: "\u6D85"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u65E9\u5B89"
+    characterImage: {fileID: 0}
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u6D85\uFF0C\u65E9\u5B89\uFF0C\u5FEB\u5403\u5427\uFF0C\u4ECA\u5929\u7B2C\u4E00\u5929\u5225\u9072\u5230\u4E86\u3002"
+    characterImage: {fileID: 0}
+  - characterName: "\u6D85"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u55EF\uFF0C\u77E5\u9053\u4E86\u3002"
+    characterImage: {fileID: 0}
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    characterImage: {fileID: 0}
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u90A3\u500B\uFF0C\u6D85\uFF0C\u4F60\u77E5\u9053\u4ECA\u5929\u662F\u4EC0\u9EBC\u65E5\u5B50\u55CE\uFF1F"
+    characterImage: {fileID: 0}
+  - characterName: "\u6D85"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u4ECA\u5929\u2026\u2026\u4E0D\u5C31\u662F\u958B\u5B78\u7684\u65E5\u5B50\u55CE\uFF1F"
+    characterImage: {fileID: 0}
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u662F\u554A\uFF0C\u4ECA\u5929\u662F\u958B\u5B78\u7684\u65E5\u5B50\uFF0C\u4F46\u4E5F\u662F\u4F60\u4F4F\u9032\u4F86\u9019\u500B\u5BB6\u6EFF\u4E00\u5E74\u7684\u65E5\u5B50\u5594\uFF01"
+    characterImage: {fileID: 0}
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u6D85\u4E00\u908A\u5403\u8457\u86CB\u6372\uFF0C\u4F3C\u61C2\u4F3C\u7121\u5730\u9EDE\u9EDE\u982D\u3002"
+    characterImage: {fileID: 0}
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u7B49\u4F60\u4E0B\u8AB2\u56DE\u4F86\u6709\u9A5A\u559C\u7B49\u4F60\u5594\uFF0C\u4ECA\u5929\u4E0A\u8AB2\u8981\u4E56\u4E56\u5730\u77E5\u9053\u55CE\uFF1F"
+    characterImage: {fileID: 0}
+  - characterName: "\u6D85"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u597D\u3002"
+    characterImage: {fileID: 0}
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u5403\u98FD\u5C31\u8D95\u7DCA\u51FA\u9580\u5427\uFF0C\u9700\u8981\u6211\u966A\u4F60\u53BB\u5B78\u6821\u55CE\uFF1F"
+    characterImage: {fileID: 0}
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u6D85\u9072\u7591\u4E00\u4E0B\u5F8C\u6416\u4E86\u6416\u982D\u3002"
+    characterImage: {fileID: 0}
+  - characterName: "\u6D85"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u6211\u81EA\u5DF1\u53BB\u5C31\u53EF\u4EE5\u4E86\uFF0C\u8B1D\u8B1D\u310B\u2026\u8B1D\u8B1D\u62D3\u3002"
+    characterImage: {fileID: 0}
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u9084\u4E0D\u7FD2\u6163\u53EB\u6211\u62D3\u6C92\u95DC\u4FC2\uFF0C\u6162\u6162\u4F86\u5C31\u597D\u3002\u90A3\u6D85\u4F60\u8DEF\u4E0A\u5C0F\u5FC3\u5440\u3002"
+    characterImage: {fileID: 0}
+  - characterName: "\u6D85"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u597D\u7684\uFF0C\u63B0\u63B0"
+    characterImage: {fileID: 0}
+  - characterName: null
+    isRefresh: 1
+    isAutoNex: 1
+    dialogue: null
+    characterImage: {fileID: 0}
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u2026"
+    characterImage: {fileID: 0}
+  - characterName: "\u62D3"
+    isRefresh: 1
+    isAutoNex: 0
+    dialogue: "\u5509\u2026"
+    characterImage: {fileID: 0}
+  excelFileName: Test0524
